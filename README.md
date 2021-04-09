@@ -13,6 +13,6 @@
       
 😄😄😄   
 🔭 I’m currently Master student @ TAMUC   
-🌱 I’m currently learning Data base, Go language  
+🌱 I’m currently learning Data base, Linux  
 👯 I’m interesting on Data algorithm & Data analysis   
 ⚡ Fun fact: My dog is so cute   
