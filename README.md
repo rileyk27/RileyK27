@@ -12,7 +12,7 @@
 </p>   
       
 😄😄😄   
-🔭 I’m currently Master student @ TAMUC   
-🌱 I’m currently learning Data base, Linux  
-👯 I’m interesting on Data algorithm & Data analysis   
+🔭 I’m AI Engineering  
+🌱 I’m currently learning LLM 
+👯 I’m interesting on Machine Learning Architecture & Data  
 ⚡ Fun fact: My dog is so cute   
