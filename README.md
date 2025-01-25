@@ -13,6 +13,6 @@
       
 😄😄😄   
 🔭 I’m AI Engineering  
-🌱 I’m currently learning LLM 
+🌱 I’m currently learning LLM    
 👯 I’m interesting on Machine Learning Architecture & Data  
 ⚡ Fun fact: My dog is so cute   
